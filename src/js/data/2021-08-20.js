@@ -928,7 +928,34 @@ opts: {
 expansion: ["XM"]
 }
 },
-   
+{
+name: "Devolve with Xerogen Crystals",
+img: "https://i.imgur.com/W61WH2z.png",
+opts: {
+expansion: ["XM"]
+}
+},
+{
+name: "Ruin the Perfect Wedding",
+img: "https://i.imgur.com/WCT5fpB.png",
+opts: {
+expansion: ["XM"]
+}
+},
+{
+name: "Tornado of Terrigen Mists",
+img: "https://i.imgur.com/ntnVwdx.png",
+opts: {
+expansion: ["XM"]
+}
+},
+{
+name: "War of Kings",
+img: "https://i.imgur.com/2uYmj8X.png",
+opts: {
+expansion: ["XM"]
+}
+},
 ];
 
 F
