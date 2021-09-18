@@ -932,28 +932,28 @@ expansion: ["XM"]
 name: "Devolve with Xerogen Crystals",
 img: "https://i.imgur.com/W61WH2z.png",
 opts: {
-expansion: ["XM"]
+expansion: ["ROK"]
 }
 },
 {
 name: "Ruin the Perfect Wedding",
 img: "https://i.imgur.com/WCT5fpB.png",
 opts: {
-expansion: ["XM"]
+expansion: ["ROK"]
 }
 },
 {
 name: "Tornado of Terrigen Mists",
 img: "https://i.imgur.com/ntnVwdx.png",
 opts: {
-expansion: ["XM"]
+expansion: ["ROK"]
 }
 },
 {
 name: "War of Kings",
 img: "https://i.imgur.com/2uYmj8X.png",
 opts: {
-expansion: ["XM"]
+expansion: ["ROK"]
 }
 },
 ];
